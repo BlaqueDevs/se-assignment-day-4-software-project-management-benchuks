@@ -2,8 +2,17 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15681488&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
-I am coming to answer this question but later!
+Answer:
+Timely delivery is essential for the success of software projects as it impacts client satisfaction, cost control, market competitiveness, and team morale. Project managers play a critical role in ensuring deadlines are met by employing effective planning, resource management, risk mitigation, and clear communication strategies. By anticipating potential challenges and adapting as needed, project managers can guide their teams to deliver high-quality software on time, meeting both client expectations and business goals.
+
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+
+ANSWER:
+Effective cost control is essential to the success of a software project as it ensures the project remains viable, maximizes ROI, and maintains stakeholder confidence. By implementing strategies such as accurate budget estimation, regular monitoring, scope management, and effective resource allocation, project managers can prevent budget overruns and deliver successful projects within financial constraints.
+
+
+
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
