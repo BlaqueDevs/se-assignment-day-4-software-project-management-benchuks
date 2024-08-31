@@ -43,7 +43,16 @@ ANSWER:
 Defining the project scope is a foundational step in project planning that sets the stage for a successful project by clarifying objectives, establishing boundaries, and enabling effective resource allocation. A Work Breakdown Structure (WBS) complements this by breaking the project down into manageable tasks, facilitating better planning, resource management, communication, and risk mitigation. Together, these tools help ensure that projects are completed on time, within budget, and to the satisfaction of stakeholders.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
+ANSWER: 
+
+Developing a detailed project schedule is critical for managing time, resources, and risks effectively. It enhances communication, accountability, and decision-making, ultimately contributing to the successful completion of the project. Gantt charts are an invaluable tool in this process, providing a visual representation of the project timeline, task dependencies, and progress tracking. By using Gantt charts, project managers can create more accurate and manageable schedules, ensuring that projects are completed on time and within budget.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+ANSWER: 
+The core issues addressed by software are significant because they directly impact the efficiency, security, user satisfaction, and overall success of the target audience. By focusing on solving these problems, software developers can create solutions that provide real value, meet the needs of users, and contribute to the success of businesses and individuals alike.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
